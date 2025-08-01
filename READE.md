@@ -1,7 +1,8 @@
-## Code multiple line
+#  Homework 1
+##  Simple Revers string 2
 ```python
 1.Ex
-# simple Revers string 2
+
 text = "hello body"
 reversText = ""
 for index in range(1,len(text)+1):
@@ -11,7 +12,7 @@ print(reversText)
 
 > resulf = ydob olleh
 
-
+## Simple Revers string 1
 ```python
 2.Ex
 text = "hello body"
@@ -25,7 +26,7 @@ print(reversText)
 
 > resulf =  ydob olleh
 
-
+## Index Of odd number
 ```python
 3.Ex
 
@@ -37,7 +38,7 @@ for i in range(len(arr)):
 print(lastOdd)
 ```
 > resulf = [0,1,4]
-
+## Average number of list
 ```python
 4.Ex
 arr = [5,7,8,4,3]
@@ -49,7 +50,7 @@ for num in arr:
 print(average)
 ``` 
 > resulf = 5.4
-
+## Simple arr dictionary
 ```python
 5.Ex
 
@@ -64,7 +65,7 @@ for dics in arr:
 > resulf = bopa
         thida
         kanha
-
+## Sum number
 ```python
 6.Ex
 arr = [5,7,8,4,3]
@@ -74,7 +75,7 @@ for num in arr:
 print(sum)
 ```
 > resulf = 27
-
+## Even Number
 ```python
 7.Ex
 arr = [5,7,8,4,3]
@@ -83,7 +84,7 @@ for num in arr:
         print(num)
 ```
 > resulf = 8 4
-
+## Minimum of number
 ```python
 8.Ex
 
@@ -96,7 +97,7 @@ print(min)
 ```
 > resulf = 3
 
-
+## Move one step on right
 ```python
 9.Ex
 
@@ -111,7 +112,7 @@ print(arr)
 ```
 
 > resulf = [0,0,0,1,0]
-
+## Move one step on left
 ```python
 10.Ex
 
@@ -125,7 +126,7 @@ for i in range(len(arr) - 1):
 print(arr)
 ```
 > resulf = [0,1,0,0,0]
-
+## Miximum of Number
 ```python
 11.Ex
 
@@ -138,7 +139,7 @@ print(max)
 ```
 > resulf = 40
 
-
+## Sum value in arr
 ```python
 12.Ex
 
